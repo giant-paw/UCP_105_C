@@ -97,6 +97,17 @@
     margin-left: 10px;
 }
 
+/* Fun fact */
+
+.funfact {
+    margin: 16vh 0;
+    margin-bottom: 18vh;
+}
+.aset {
+    margin-top: 40px;
+    margin-left: 24vh;
+}
+
 .iniAbout {
     margin-top: 60px;
     margin-bottom: 60px;
