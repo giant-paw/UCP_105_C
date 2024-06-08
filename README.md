@@ -1,5 +1,12 @@
 <h1>UCP 08 Juni 2024</h1>
 
+<p>- Form</p>
+<p>- Sweet Alert</p>
+<p>- Card</p>
+<p>- Waktu Saat Ini</p>
+<p>- Accordion Effect</p>
+
+
 <p>Preview : </p>
 
 ![p2](https://github.com/giant-paw/UCP_105_C/assets/107108170/80d58c09-8638-4eb0-a107-40ffdc2fafc3)
